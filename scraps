@@ -1,0 +1,19 @@
+scraps
+
+    <div class = "links">
+      <ul>
+        <li>  
+            <a href = "http://twitter.com/JeffreyPfeiffer">  <img src= "assets/twitter.png"> </a> </li>
+        <li>
+            <a href="http://www.facebook.com"> <img src= "assets/facebook.png"> </a>
+       </li>
+     </ul>
+   </div>
+
+
+   position: relative;
+	display:  block;
+	padding-top: 35px;
+	padding-left: 290px;
+    max-width: 100%;
+    max-height: 100%;
